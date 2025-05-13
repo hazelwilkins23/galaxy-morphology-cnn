@@ -1,0 +1,8 @@
+aiohttp
+asyncio
+nest_asyncio
+tqdm
+pandas
+numpy
+matplotlib
+tensorflow
